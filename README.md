@@ -1,7 +1,7 @@
 # Registro de Estoque - CLI  
 *Challenge Dasa 2025 • FIAP*
 
-**Grupo**: *Gabriel Terra Lilla dos Santos RM:554575, Caio Felipe de Lima Bezerra — RM 556197, Rickelmyn de Souza Ruescas — RM 556055, Fabrini Soares — RM 557813, Vitor Couto Victorino — RM 554965*  
+**Grupo**: *Gabriel Terra Lilla dos Santos RM:554575, Caio Felipe de Lima Bezerra RM:556197, Rickelmyn de Souza Ruescas RM:556055, Fabrini Soares RM:557813, Vitor Couto Victorino RM:554965*  
 
 ## Pré-requisitos
 * **Python 3.8+** (sem dependências externas)  
